@@ -59,7 +59,7 @@ Interface: 192.168.10.178
 ┌─────────┬────┬──────────────────┬─────────────────────┐
 │ (index) │ No │ Internet Address │ Physical Address    │
 ├─────────┼────┼──────────────────┼─────────────────────┤
-│ 0       │ 1  │ '192.168.61.178' │ '2e:d8:cc:1a:b1:21' │
+│ 0       │ 1  │ '192.168.10.178' │ '2e:d7:cc:1a:b8:71' │
 └─────────┴────┴──────────────────┴─────────────────────┘
 ```
 but, in node js, module doesn't have a method for showing the network interface, i'm so sorry :(
@@ -128,8 +128,8 @@ OPTIONS: 405
 ["x64"]-> 
 ```
 it's like curl isn't?
-,but i add some method for test request the server.
-
+,but i add some method for test request the server
+last, for exit the program, just typin `exit` and program will be stopped
 ## Author
 Name: &nbsp; Ibnu yasir
 \
