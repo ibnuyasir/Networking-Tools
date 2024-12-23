@@ -1,0 +1,26 @@
+{
+  "name": "project-p_networking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kurt_[ Ibnu Yasir ]",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "arp": "^0.0.3",
+    "dgram": "^1.0.1",
+    "dns": "^0.1.2",
+    "express": "^4.21.2",
+    "net-ping": "^1.2.4",
+    "node-arp": "^1.0.6",
+    "readline-sync": "^1.4.10",
+    "socket.io": "^4.8.1",
+    "traceroute": "^1.0.0"
+  },
+  "devDependencies": {
+    "os-browserify": "^0.3.0"
+  }
+}
